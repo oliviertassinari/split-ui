@@ -120,3 +120,8 @@ tr:last-child td {
 tbody tr:hover {
   background: #f9fafb;
 }
+
+syntax-highlight {
+  font-size: 10px;
+  line-height: 16px;
+}

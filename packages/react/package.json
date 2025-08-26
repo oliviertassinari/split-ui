@@ -1,6 +1,6 @@
 {
   "name": "@split-ui/react",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "A React component library for flexible panel layouts",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -23,8 +23,7 @@
     "dev": "tsdown --watch",
     "test": "vitest run",
     "test:ui": "vitest --ui",
-    "test:watch": "vitest",
-    "typescript": "tsc --noEmit"
+    "test:watch": "vitest"
   },
   "keywords": [
     "react",

@@ -50,5 +50,9 @@
       "vite": "npm:rolldown-vite@latest"
     }
   },
-  "packageManager": "pnpm@10.14.0"
+  "packageManager": "pnpm@10.14.0",
+  "dependencies": {
+    "hast-util-to-jsx-runtime": "^2.3.6",
+    "syntax-highlight-element": "^1.2.0"
+  }
 }
